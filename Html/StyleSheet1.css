@@ -1,0 +1,73 @@
+﻿#pic{
+    height: 500px;
+    width: 900px;
+    position: relative;
+    left: 17.5%;
+}
+.inner {
+    width: 50%;
+    margin: 0 auto;
+}
+.main {
+    text-align: center;
+    color: darkorange;
+    border: 4mm ridge #fff;
+}
+.para{
+    text-align: center;
+    font-weight: 700;
+}
+#setter {
+    position: relative;
+    left: 70%;
+    top: -60px;
+}
+.keys {
+    width: 50%;
+    border: 4mm ridge #fff;
+}
+.ps1{
+    width: 30%;
+    border: 4mm ridge #fff;
+    text-align: center;
+    position: relative;
+    left: 30%;
+    top: -450px;
+}
+.ps2 {
+    width: 30%;
+    border: 4mm ridge #fff;
+    text-align: center;
+    position: relative;
+    left: 30%;
+    top: -380px;
+}
+#spiker {
+    width: 250px;
+    height:500px;
+    position: relative;
+    top: -700px;
+    left: 5%;
+}
+.ps3 {
+    width: 30%;
+    border: 4mm ridge #fff;
+    text-align: center;
+    position: relative;
+    left: 30%;
+    top: -800px;
+}
+#libero {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 67%;
+    top: -1100px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.ending{
+    position: relative;
+    top: -1100px;
+}
